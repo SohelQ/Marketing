@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+.body{
+    font-family: "Work sans", "Helvetica;
+}
+.container{
+    width: 1130px;
+}
+.header-area{
+    background-image: url(../img/startup-0.svg) ,
+    url(../img/startup-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-navbar{
+    margin-top: 40px;
+}
+.menu{
+    margin-right: 30px;
+}
+.menu ul li{
+    list-style: none;
+    float: right;
+    color: white;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+.header-content{
+    color: #ffffff;
+    line-height: 30px;
+    margin-top: 150px;
+    margin-bottom: 290px;
+}
+.header-content p{
+    font-size: 21px;
+}
+.btn.btn-default.go {
+    padding: 12px;
+}
+
+.btn-primary{
+    margin-top: 10px;
+    padding: 12px 50px;
+    font-size: 18px;
+    background-color: #2595FF;
+}
+/*header area end*/
+
+.feature-area{
+    margin-top: 100px;
+    font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.feature-content{
+    margin-top: 25%;
+}
+.feature-content p{
+    font-size: 18px;
+}
+/*feature area end*/
+
+.development{
+  background-color: #262F36;  
+}
+.dev-text{
+    font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    color: #ffffff;
+    padding: 210px 0px;
+}
+.dev-text p{
+    line-height: 25px;
+    font-size: 18px;
+    color: #BEC8CE;
+    font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.btn-default{
+    padding: 10px 35px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.editor{
+    margin-top: 100px;
+}
+.editor img{
+    margin-left: 24%;
+}
+/*development area end*/
+
+.founder-quote{
+    background-image: url(../img/startup-4.jpg);
+    background: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+.quote{
+    margin: 32% 0px;
+    color: white;
+    padding-left: 20%;
+    
+}
+/*quote ara end*/
+.partners{
+    padding: 40px 0;
+    background-color: #2595FF;
+}
+.partners img{
+    margin: 0 10px 0px;
+    vertical-align: middle;
+    border-style: none;
+    text-align: center;
+}
+
+/*partners area end*/
+.tech-grid{
+    padding: 100px 0;
+}
+.tech-heading{
+    text-align: center;
+}
+.machine{
+    margin-top: 50px;
+    text-align: center;
+}
+.machine span{
+    font-weight: 500;
+}
+/*tech grid area end*/
+.pricing-table{
+    margin-bottom: 90px;
+}
+.table-heading{
+    text-align: center;
+}
+.value{
+    font-size: 60px;
+}
+.table-area{
+    margin-top: 35px;
+    text-align: center;
+}
+.table-area h5{
+    border-bottom: 1px solid #BEC8CE;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: left;
+}
+.table-area h5 span{
+    font-weight: 500;
+}
+.table-area .btn-primary{
+    display: block;
+    width: 100%;
+    background-color: #2595FF;
+    border-color: #2595FF;
+}
+/*pricing area end*/
+.footer-area{
+    background-color: #262F36;
+    color: white;
+    padding: 100px 0 170px;
+}
+.footer-menu ul{
+    padding: 0;
+}
+.footer-menu ul li{
+    list-style: none;
+}
+
+
